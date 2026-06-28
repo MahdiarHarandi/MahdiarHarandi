@@ -1,7 +1,7 @@
 # Hi, I'm Mahdiar Harandi 👋
 
 Final-year **Computer Engineering** student at the **University of Tehran**,
-focused on **Machine Learning & NLP** — building and *evaluating* LLM systems end
+focused on **Machine Learning & NLP** - building and *evaluating* LLM systems end
 to end: retrieval-augmented generation, tool-using agents, and parameter-efficient
 fine-tuning.
 
